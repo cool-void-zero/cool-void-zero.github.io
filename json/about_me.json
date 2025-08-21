@@ -5,7 +5,7 @@
     "mission": "Committed to using personal abilities to create value and contribute to the world.", 
     "skillsets": [
         "JavaScript", "Node.js", "React Native", "Next.js", 
-        "T-SQL", "MongoDB", 
+        "T-SQL", "MongoDB"
     ], 
     "tools": ["Postman", "Google Cloud Platform"]
 }
